@@ -63,3 +63,9 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -89.505236 35.035277 107.8 313.2
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -89.503602 35.033852 107.61 313.21
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -89.502119 35.03256 106.68 313.22
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -89.500077 35.03078 106.38 317.67
+# osm2city_w090n30_w090n35_1482560
+# do not edit below this line
+# Last Written Tue Apr 19 21:40:57 2016
+#
+OBJECT_STATIC w090n30_w090n35_1482560city0703.ac -89.73827 35.06611 97.80 0
+# END osm2city_w090n30_w090n35_1482560
