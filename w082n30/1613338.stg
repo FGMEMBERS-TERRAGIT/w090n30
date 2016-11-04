@@ -1,0 +1,2 @@
+OBJECT_SHARED Models/Airport/tacan.xml -81.423081 30.388611 1.98 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -81.420556 30.419167 -150.6 180
