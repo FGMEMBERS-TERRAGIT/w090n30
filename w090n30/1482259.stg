@@ -14,3 +14,4 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -89.095556 30.369167 -122.3
 OBJECT_SHARED Models/Communications/radio-medium.xml -89.093889 30.369444 -125.7 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -89.089167 30.372222 -144.53 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_08.ac -89.093333 30.368889 -414.7 180
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -89.08967 30.3649874 -1.27 0
