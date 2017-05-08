@@ -113,3 +113,11 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.758662 33.649723 75.19 303.3
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.757859 33.648738 77.85 304.14
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.757374 33.648142 79.46 306.66
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.753265 33.64395 74.36 306.86
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -80.95193 33.67606 109.81 237
+OBJECT_SHARED Models/lib/SmHangar.ac -80.95147 33.67583 109.27 236.01
+OBJECT_SHARED Models/lib/garage-small-white.ac -80.95149 33.67565 109.28 58
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac -80.95184 33.67603 109.69 147
+# END dsf2stg

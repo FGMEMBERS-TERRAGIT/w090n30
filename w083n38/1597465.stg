@@ -141,5 +141,5 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -82.584729 38.375082 206.46 101.
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -82.59060 38.37750 182.31 0
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml -82.59060 38.37750 231.45 0
 # END dsf2stg
