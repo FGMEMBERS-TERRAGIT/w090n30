@@ -130,6 +130,8 @@ OBJECT_SHARED Models/Airport/thangar.ac -80.03079813 32.89793039 13.48 335
 OBJECT_SHARED Models/Airport/hangar3.ac -80.02670556 32.8929765 12.01 84
 OBJECT_SHARED Models/Airport/MultiFlightLeeds.ac -80.04742901 32.89373911 13.02 284
 OBJECT_SHARED Models/Airport/hangar.ac -80.02997884 32.8947912 12.64 28.9
+OBJECT_SHARED Models/Aircraft/rafaleB_lowpoly.ac -80.0475004 32.8958411 13.78 264
+OBJECT_SHARED Models/Aircraft/rafaleB_lowpoly.ac -80.0474975 32.8961829 13.9 264
 OBJECT_SHARED Models/Aircraft/737virgin.xml -80.03693154 32.88509279 9.6 136
 OBJECT_SHARED Models/Aircraft/A320_services.xml -80.03706122 32.88563404 9.79 216
 OBJECT_SHARED Models/Aircraft/B737_services.xml -80.03596505 32.88563609 9.79 288
@@ -252,6 +254,25 @@ OBJECT_SHARED Models/Aircraft/MS893-w.ac -80.0298728 32.89323224 12.2 20
 OBJECT_SHARED Models/Aircraft/MS893-w.ac -80.02973053 32.89327563 12.21 24
 OBJECT_SHARED Models/Aircraft/MS893-w.ac -80.02942858 32.89296183 12.1 0
 OBJECT_SHARED Models/Aircraft/PC_9M_Slovenia.ac -80.03031602 32.89304429 12.16 268
+OBJECT_SHARED Models/Aircraft/cessna_caravan_lowpoly.ac -80.0345845 32.9009787 14.41 0
+OBJECT_SHARED Models/Aircraft/cessna_caravan_lowpoly.ac -80.0344208 32.9010868 14.42 0
+OBJECT_SHARED Models/Aircraft/cessna_caravan_lowpoly.ac -80.0305949 32.8964361 13.1 72
+OBJECT_SHARED Models/Aircraft/citation_bravo_lowpoly.ac -80.0316763 32.8971581 13.33 312
+OBJECT_SHARED Models/Aircraft/citation_bravo_lowpoly.ac -80.0308093 32.8949235 12.71 224
+OBJECT_SHARED Models/Aircraft/pc6_lowpoly.ac -80.0314248 32.8978411 13.49 216
+OBJECT_SHARED Models/Aircraft/pc6_lowpoly.ac -80.0302191 32.8934792 12.28 72
+OBJECT_SHARED Models/Aircraft/m2000-5_lowpoly.ac -80.0474959 32.8965119 14.02 264
+OBJECT_SHARED Models/Aircraft/m2000-B_lowpoly.ac -80.0474995 32.8967989 14.12 264
+OBJECT_SHARED Models/Aircraft/f16_lowpoly.ac -80.0475077 32.8974795 14.34 264
+OBJECT_SHARED Models/Aircraft/f16_lowpoly.ac -80.0474956 32.8977089 14.42 264
+OBJECT_SHARED Models/Aircraft/f16_lowpoly.ac -80.0474851 32.8981701 14.57 264
+OBJECT_SHARED Models/Aircraft/f16_lowpoly.ac -80.0474819 32.8985924 14.7 264
+OBJECT_SHARED Models/Aircraft/f16_lowpoly.ac -80.047476 32.8979463 14.5 264
+OBJECT_SHARED Models/Aircraft/f16_aggressor_lowpoly.ac -80.0475166 32.8972175 14.26 264
+OBJECT_SHARED Models/Aircraft/f16_aggressor_lowpoly.ac -80.0474817 32.8983951 14.64 264
+OBJECT_SHARED Models/Aircraft/cessna_caravan_gag_lowpoly.ac -80.0305576 32.896591 13.14 72
+OBJECT_SHARED Models/Aircraft/cessna_caravan_gag_lowpoly.ac -80.030527 32.8967555 13.18 72
+OBJECT_SHARED Models/Aircraft/pc6_blue_lowpoly.ac -80.0302935 32.8932906 12.23 72
 OBJECT_STATIC SyracuseTower.ac -80.0270771 32.8948406 12.54 0
 OBJECT_STATIC LIML_parking3.xml -80.037096 32.8843754 9.34 261.5
 # dsf2stg
