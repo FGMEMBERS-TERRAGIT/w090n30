@@ -163,3 +163,6 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -84.752751 34.702816 220.46 292.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -84.75271 34.702734 220.87 292.44
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -84.752309 34.701939 224.79 292.53
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -84.75132 34.69998 232.06 292.54
+OBJECT_SHARED Models/Power/cell_condenser_2x4.ac -84.918416 34.709436 213.54 0
+OBJECT_SHARED Models/Power/solar_park.ac -84.925228 34.705899 211.1 0
+OBJECT_SHARED Models/Power/solar_park.ac -84.918941 34.712875 201.69 0
