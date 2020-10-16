@@ -189,7 +189,7 @@ OBJECT_SHARED Models/Airport/Jetway/DockingGate.xml -86.27308436 39.7316855 239.
 OBJECT_SHARED Models/Airport/Jetway/DockingGate.xml -86.27292147 39.73112065 239.34 225.8
 OBJECT_STATIC kind-fedex-terminal.ac -86.27769025 39.71632281 238.84 45.9
 OBJECT_STATIC kind-old-terminal.ac -86.27407958 39.73027361 239.47 40.7
-OBJECT_STATIC kind-terminal.ac -86.29689713 39.71581301 235.07 46.1
+OBJECT_STATIC kind-terminal.ac -86.296953 39.715611 235.06 46.1
 OBJECT_STATIC kind-tower.ac -86.30569674 39.7089339 231.62 319.7
 # dsf2stg
 # do not edit below this line
