@@ -66,3 +66,10 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -84.0784996 39.4576714 293.41 78
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -84.0784396 39.4656365 286.48 95.21
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -84.0780962 39.4629131 288.97 94.95
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -84.0778387 39.460289 291.47 266.65
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -84.16870 39.38463 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -84.16866 39.38463 262.07 0
+OBJECT_SHARED Models/lib/shed8x10.ac -84.16756 39.38429 262.07 180
+# END dsf2stg

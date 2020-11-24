@@ -8,3 +8,10 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -80.130972 39.876 292.9 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -80.125278 39.918333 247.3 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -80.074444 39.896556 314.38 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -80.008056 39.940278 144.15 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/admin-with-cars.ac -80.13216 39.89884 0.00 273.09
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -80.13129 39.89898 334.38 181.35
+OBJECT_SHARED Models/lib/LongRow.ac -80.13057 39.89912 333.98 0.940002
+# END dsf2stg

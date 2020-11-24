@@ -85,3 +85,16 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.006736 35.087652 55.06 258.1
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.00664 35.088183 55.4 259.79
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.005923 35.090943 58.29 269.09
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.004733 35.011655 79.97 330.01
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/admin-with-cars.ac -80.08026 35.02103 0.00 23.98
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -80.08112 35.02120 90.26 204.75
+OBJECT_SHARED Models/lib/SmHangar.ac -80.08132 35.02151 90.48 205.32
+OBJECT_SHARED Models/lib/SmHangar.ac -80.08166 35.02238 90.54 291.27
+OBJECT_SHARED Models/lib/SmHangar.ac -80.08142 35.02169 90.68 205.32
+OBJECT_SHARED Models/lib/SmHangar.ac -80.08189 35.02230 90.57 291.27
+OBJECT_SHARED Models/lib/SmHangar.ac -80.08153 35.02188 90.72 205.32
+OBJECT_SHARED Models/lib/SmHangar.ac -80.08213 35.02223 90.61 291.27
+OBJECT_SHARED Models/lib/MedHangar.ac -80.08280 35.02451 90.76 115.5
+# END dsf2stg

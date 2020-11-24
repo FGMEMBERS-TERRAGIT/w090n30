@@ -10,3 +10,25 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.404132 30.20435 0.98 100.59
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.404073 30.20408 0.98 101.14
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.403258 30.200642 0.96 101.59
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.40209 30.195722 0.93 101.59
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -81.44744 30.22525 0.00 16.19
+OBJECT_SHARED Models/lib/shed8x10.ac -81.44674 30.22558 2.93 332.82
+OBJECT_SHARED Models/lib/shed8x10.ac -81.44716 30.22601 3.04 45
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -81.45055 30.24443 2.89 270
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -81.45065 30.24445 5.93 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -81.45080 30.24452 5.93 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -81.45090 30.24495 5.93 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -81.45088 30.24502 6.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -81.45072 30.24498 6.00 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -81.45075 30.24582 5.93 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -81.45060 30.24578 5.94 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -81.45055 30.24637 5.95 180
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -81.45059 30.24647 5.94 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -81.45058 30.24660 5.93 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -81.45055 30.24668 5.93 0
+OBJECT_SHARED Models/lib/deciduous-tree2.xml -81.45053 30.24677 5.92 0
+OBJECT_SHARED Models/lib/lamp10m.xml -81.45080 30.24553 5.92 -23.37
+OBJECT_SHARED Models/lib/HorizTanks2.ac -81.45054 30.24457 5.93 180.5
+# END dsf2stg

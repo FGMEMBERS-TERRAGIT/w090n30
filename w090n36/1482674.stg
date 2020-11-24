@@ -22,3 +22,9 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -89.313398 36.800968 91.06 299.5
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -89.313377 36.812228 90.9 285.93
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -89.313336 36.800886 90.96 298.67
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -89.312994 36.800328 91.41 277.46
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cars7.ac -89.35770 36.84639 0.00 90
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -89.35829 36.84581 95.05 270
+# END dsf2stg

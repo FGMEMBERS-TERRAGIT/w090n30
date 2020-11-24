@@ -116,3 +116,9 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -82.084204 37.737544 472.43 237.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -82.083509 37.738391 464.98 237.02
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -82.077842 37.745297 544.75 237.02
 OBJECT_STATIC KEBD_fence.ac -82.12058532 37.68163792 566.35 90.1
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -82.11775 37.68102 0.00 111
+OBJECT_SHARED Models/lib/fboModern1.ac -82.11820 37.68086 557.08 291
+# END dsf2stg

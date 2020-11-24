@@ -6,3 +6,11 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -81.659194 30.628472 -114.7
 OBJECT_SHARED Models/Communications/radio-medium.xml -81.553889 30.635556 -126.54 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -81.546833 30.733028 -118.21 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -81.540556 30.735833 -413.68 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/water-tower-90-red-white.xml -81.55957 30.74700 0.00 167.35
+OBJECT_SHARED Models/lib/HorizTanks2.ac -81.55936 30.74889 5.21 55.89
+OBJECT_SHARED Models/lib/MedHangar.ac -81.55865 30.74868 5.28 233.86
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac -81.55964 30.74719 -89.70 0
+# END dsf2stg

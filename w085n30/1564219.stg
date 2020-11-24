@@ -180,3 +180,11 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -84.009171 30.908741 47.16 0.61
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -84.006355 30.908768 56.41 0.79
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -84.004379 30.908796 57.92 359.92
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -84.00013 30.908726 59.63 359.53
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -84.15652 30.88786 0.00 -31.68
+OBJECT_SHARED Models/lib/LongRow.ac -84.15668 30.88680 75.11 3.28
+OBJECT_SHARED Models/lib/LongRow.ac -84.15570 30.88739 73.52 274.43
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -84.15674 30.88756 74.50 148.32
+# END dsf2stg

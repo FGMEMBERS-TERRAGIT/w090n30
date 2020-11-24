@@ -53,3 +53,17 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.260317 39.476199 326.33 238.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.259793 39.476837 309.83 237.66
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.259417 39.477296 316.87 235.89
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.259143 39.477588 323.3 236.54
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/cone.ac -80.27795 39.40426 0.00 19.58
+OBJECT_SHARED Models/lib/stack_of_cones.ac -80.27795 39.40411 299.73 19.58
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -80.27793 39.40426 299.93 321.43
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac -80.27804 39.40416 299.83 19.58
+OBJECT_SHARED Models/Misc/6barrels.ac -80.27783 39.40417 299.83 19.58
+OBJECT_SHARED Models/Misc/6barrels.ac -80.27782 39.40416 300.04 19.58
+OBJECT_SHARED Models/lib/2vending-machines.ac -80.27794 39.40425 300.04 231.78
+OBJECT_SHARED Models/lib/4container-office.ac -80.27775 39.40429 299.83 52.37
+OBJECT_SHARED Models/lib/4container-office.ac -80.27593 39.40664 299.94 43.21
+OBJECT_SHARED Models/lib/4container-office.ac -80.27558 39.40690 300.16 43.21
+# END dsf2stg

@@ -3,3 +3,8 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -84.354556 39.948361 181.08
 OBJECT_SHARED Models/Communications/radio-medium.xml -84.313056 39.963611 167.21 180
 OBJECT_SHARED Models/Airport/marker.ac -84.253989 39.890858 300.31 180
 OBJECT_SHARED Models/Power/generic_pylon_200m.ac -84.344722 39.879722 303.06 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac -84.40848 39.96734 0.00 90
+# END dsf2stg

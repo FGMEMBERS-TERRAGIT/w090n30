@@ -30,3 +30,8 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -84.016833 35.902528 192.07
 OBJECT_SHARED Models/Communications/radio-medium.xml -84.009056 35.934917 141.66 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -84.24992 35.96536 244.79 201.8
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -84.03464 35.875081 256.08 268.2
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac -84.09938 35.91808 0.00 29.28
+# END dsf2stg
